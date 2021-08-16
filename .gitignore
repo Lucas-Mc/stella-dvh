@@ -1,0 +1,7 @@
+# Temp files
+*.DS_Store
+
+# Large files
+*.zip
+*.bin
+
