@@ -1,6 +1,9 @@
 # Temp files
 *.DS_Store
 
+# Virtual environments
+env/
+
 # Large files
 *.zip
 *.bin
